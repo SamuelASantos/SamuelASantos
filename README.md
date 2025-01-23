@@ -1,7 +1,7 @@
 # 🌟 Bem-vindo ao meu GitHub!
 
 ## 👨‍💻 Sobre Mim
-Olá! Sou **Samuel Santos**, um entusiasta da tecnologia e atualmente em transição de carreira para Engenharia de Software. Tenho experiência em HTML, CSS, JavaScript e Python, e estou sempre buscando aprender mais e contribuir com projetos que fazem a diferença. Minha meta é crescer profissionalmente como desenvolvedor e, futuramente, liderar uma Software House focada em soluções para pequenas e médias empresas.
+Olá! Sou **Samuel Santos**, um entusiasta da tecnologia e atualmente em transição de carreira para Engenharia de Software. Tenho experiência em HTML, CSS, JavaScript e Python, e estou sempre buscando aprender mais e contribuir com projetos que fazem a diferença. Minha meta é crescer profissionalmente como desenvolvedor.
 
 ---
 
