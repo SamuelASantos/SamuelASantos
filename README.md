@@ -11,12 +11,15 @@ Ol√°! Sou **Samuel Santos**, um entusiasta da tecnologia e atualmente em transi√
 - ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) **HTML5**
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) **CSS3**
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) **JavaScript**
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS**
+- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white) **React** [Estudando...]
 - ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**
 
 ### Ferramentas e Tecnologias:
 - ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) **Git**
 - ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) **GitHub**
 - ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) **Visual Studio Code**
+- ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white) **npm**
 
 ---
 
